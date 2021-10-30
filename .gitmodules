@@ -4,3 +4,6 @@
 [submodule "music_generator"]
 	path = music_generator
 	url = https://github.com/lilyccollins/music_generator.git
+[submodule "omnidirectional_robot"]
+	path = omnidirectional_robot
+	url = https://github.com/lilyccollins/omnidirectional_robot.git
