@@ -10,3 +10,6 @@
 [submodule "TYE_robot"]
 	path = TYE_robot
 	url = https://github.com/lilyccollins/TYE_robot.git
+[submodule "COVID_genome_analyzer"]
+	path = COVID_genome_analyzer
+	url = https://github.com/lilyccollins/COVID_genome_analyzer.git
