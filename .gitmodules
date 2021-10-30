@@ -7,3 +7,6 @@
 [submodule "omnidirectional_robot"]
 	path = omnidirectional_robot
 	url = https://github.com/lilyccollins/omnidirectional_robot.git
+[submodule "TYE_robot"]
+	path = TYE_robot
+	url = https://github.com/lilyccollins/TYE_robot.git
