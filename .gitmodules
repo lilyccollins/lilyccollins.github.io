@@ -1,3 +1,6 @@
 [submodule "CAPTCHA_recognition"]
 	path = CAPTCHA_recognition
 	url = https://github.com/lilyccollins/CAPTCHA_recognition.git
+[submodule "music_generator"]
+	path = music_generator
+	url = https://github.com/lilyccollins/music_generator.git
