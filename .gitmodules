@@ -13,3 +13,6 @@
 [submodule "COVID_genome_analyzer"]
 	path = COVID_genome_analyzer
 	url = https://github.com/lilyccollins/COVID_genome_analyzer.git
+[submodule "bacteria_model"]
+	path = bacteria_model
+	url = https://github.com/lilyccollins/bacteria_model.git
