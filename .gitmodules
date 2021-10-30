@@ -1,0 +1,3 @@
+[submodule "CAPTCHA_recognition"]
+	path = CAPTCHA_recognition
+	url = https://github.com/lilyccollins/CAPTCHA_recognition.git
